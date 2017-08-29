@@ -6,7 +6,7 @@ using System.Web;
 
 namespace AutoCompleteTexBox.Models
 {
-    public class Students
+    public class Student
     {
         [Key]
         public int Id { get; set; }
